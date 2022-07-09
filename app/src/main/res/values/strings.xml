@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Weather</string>
+    <string name="app_name">WeatherApp</string>
+    <string name="request_location">Aceitar</string>
+    <string name="request_location_description">Precisamos da sua permissão para acessar o local e obter as informações de clima na sua região.</string>
 </resources>

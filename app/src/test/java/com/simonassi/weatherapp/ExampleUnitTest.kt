@@ -1,4 +1,4 @@
-package com.simonassi.weather
+package com.simonassi.weatherapp
 
 import org.junit.Test
 
